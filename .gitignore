@@ -1,0 +1,5 @@
+.vscode
+_agstate
+.yarn
+.github
+node_modules
