@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { makeCapTP, E } from '@agoric/captp';
 import { makeAsyncIterableFromNotifier as iterateNotifier } from '@agoric/notifier';
-import { Far } from '@agoric/marshal'; // eslint-disable-line import/no-extraneous-dependencies
+import { Far } from '@agoric/marshal'; 
 
 import {
   activateWebSocket,
