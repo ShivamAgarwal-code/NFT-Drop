@@ -1,4 +1,5 @@
 import '@agoric/zoe/exported';
+import react from 'React';
 
 import { makeIssuerKit, AssetKind, AmountMath } from '@agoric/ertp';
 import { Far } from '@agoric/marshal';
