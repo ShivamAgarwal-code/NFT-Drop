@@ -9,7 +9,7 @@ import { makeFakeVatAdmin } from '@agoric/zoe/tools/fakeVatAdmin.js';
 import { makeZoeKit } from '@agoric/zoe';
 import { makeIssuerKit, AmountMath } from '@agoric/ertp';
 
-// @ts-ignore
+
 const contractPath = new URL('../src/contract.js', import.meta.url).pathname;
 
 test('zoe - sell nft cards', async (t) => {
