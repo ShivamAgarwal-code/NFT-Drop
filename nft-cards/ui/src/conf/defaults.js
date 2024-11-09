@@ -1,4 +1,4 @@
-// GENERATED FROM /home/garvit/Desktop/Hackathons/HTF/nftCards/nft-cards/api/deploy.js
+
 export default {
   "INSTANCE_BOARD_ID": "112440918",
   "INSTALLATION_BOARD_ID": "474502210",
